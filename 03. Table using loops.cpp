@@ -4,7 +4,7 @@ int main()
 {
     int num;
 
-    // **TABLE USING FOR-LOOP
+    // **TABLE USING FOR-LOOP 
 
     cout<<"Enter the table number: ";
     cin>>num;
