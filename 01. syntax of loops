@@ -1,0 +1,26 @@
+
+*** SYNTAX ***
+
+1) FOR LOOP:
+
+for(initialization, condition, expression)
+{
+    body
+}
+
+=========================================
+2) WHILE LOOP:
+
+while ( condition )
+{
+    body
+}
+
+=========================================
+3) DO-WHILE LOOP: 
+
+do
+{
+    body
+} while ( condition );
+==========================================
